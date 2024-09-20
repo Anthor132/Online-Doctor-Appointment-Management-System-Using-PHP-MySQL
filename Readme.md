@@ -6,7 +6,7 @@
 
 3. Copy dams folder
 
-4. Paste inside xampp/htdocs directory
+4. Paste inside xampp/htdocs directory where you have installed xampp software on your device
 
 5. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
